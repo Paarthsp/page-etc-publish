@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <h1>Head 1</h1>
+      <h2>smaller head 2</h2>
+      <h3>smaller head 3</h3>
+      <h4>even smaller head 4</h4>
+      <h5>the smallest head 5</h5>
+      <hr><! this will draw a line in bw>
+  </head>
+  <body bgcolor=sky_blue text=white link=blue vlink=purple alink=green>
+      <p> <b><i><pre>this</pre> <! pre makes the font small and awkward and keeps distance bw the others and only in one line>line will</i><br> <em><u>break</u> here</em></b></p>
+      <hr><p><strong>this line will be bold af </strong>
+        <p><font color=black size=5 face="Brush Script MT">some interesting formats</font><br>
+       <big> 2<sup>2</sup>=4</big> . <i>and</i> . <smalll> H<sub>2</sub>O=water</small>
+        <br><strike>normal </strike><small><small>  small</small></small>
+     </p> </p> 
+      <p>
+      <dl>
+        <dt><font size=6 color=black>list head</dt></font>
+        <dt> list contents</dt>
+      </dl>
+      <br>
+      <font size=6 face="Times New Roman" color=teal> HTML LISTS - </font>
+        <h1> List of liquids</h1>
+        <ol type=i>
+          <li> water</li>
+          <li> coffee</li>
+          <li> tea</li>
+          <li> soda and soft drinks</li>
+          
+        </Ol>
+        
+        <p align=center><h1 size=8 color=green> electronics</h1>
+        <ol type=A> <li> Smartphone</li>
+        <li> laptop</li>
+        <li> television</li></ol></p>
+        </p>
+        <a href="https://www.google.com/"> Open goolge</a>
+        <p> 
+        <imgsrc="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalcameraworld.com%2Fbuying-guides%2Fbest-full-frame-cameras&psig=AOvVaw1Ylcej1cqSRt6-KTPpoWfx&ust=1710141226165000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOC51dSS6YQDFQAAAAAdAAAAABAE" alt=images border =7 />
+        
+        </p>
+        
+  </body>
+</html>
